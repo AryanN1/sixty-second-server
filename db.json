@@ -1,0 +1,26 @@
+{
+"posts": [ 
+  {
+  "id" : 1,
+  "title": "json-server",
+  "author": ""
+},
+  {
+    "name": "ary",
+    "id": 2
+  }
+],
+"comments": [
+  {
+    "id": 1,
+    "body": "Server must be working!",
+    "postId": 1
+  }
+],
+  "profile": {
+    "name": "ary"
+  }
+}
+
+
+
