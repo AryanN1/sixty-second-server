@@ -11,7 +11,7 @@ All it needs is a JSON file
 
 3. npm init
 
-4. Follow the setup by providing basics info for your Node project
+4. Follow the setup by providing basic info for your Node project
 
 5. npm install json-server -g
 
